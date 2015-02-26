@@ -15,3 +15,6 @@ Powershell code (committed)
 MySQL Connector assembly for .net
 VMWare powerCLI
 Citrix XenApp Management Powershell Snapin (comes with default install of Session host)
+
+
+For those that are interested in this, I promise you, the documentation will get better.
